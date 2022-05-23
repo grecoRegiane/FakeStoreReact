@@ -1,0 +1,46 @@
+
+.meu-carrinho{
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.meu-carrinho h1{
+    margin-bottom: 14px;
+}
+
+.meu-carrinho span{
+    font-size: 18px;
+}
+
+.meu-carrinho ul{
+    width: 900px;
+}
+
+.meu-carrinho ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 14px;
+}
+
+.meu-carrinho div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.meu-carrinho div input{
+    margin-left: 7px;
+    margin-right: 14px;
+
+}
+
+.meu-carrinho div a{
+    text-decoration: none;
+    color: #116FEB;
+    margin-right: 14px;
+
+}
